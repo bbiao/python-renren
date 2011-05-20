@@ -1,5 +1,3 @@
 Python-renren
 Author: @bbiao (bbbiao@gmail.com)
 Since: 2011/05/20
-
-The ultimate purpose of this project is to access renren resource from python use username or password (without an app registered in renren platform) or OAuth2(with an app registered in renren platform)
